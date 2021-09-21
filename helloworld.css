@@ -1,0 +1,14 @@
+.round{
+    border-radius: 50%;
+}
+.center{
+    align-items: center;
+    text-align: center;
+    vertical-align:middle;
+}
+hr.design{
+    border: 1px solid black;
+}
+.background{
+    background-color:#004d80;
+}
